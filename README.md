@@ -1,4 +1,4 @@
-## Victor Hugo Nascimento 👨🏻‍💻
+# Olá, eu sou o Victor Hugo 👋
 
 Estudante do último semestre de **Ciência da Computação** na UNIP, de Ribeirão Preto/SP.
 Construo aplicações com **IA generativa e LLMs** em Python: APIs, interfaces de chat e
@@ -12,31 +12,7 @@ de quem vai usar.
 
 ## 🛠️ Stack
 
-**Linguagens**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />)
-          
-![Java](
-![Java](
-
-**IA e LLMs**
-
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-6E40C9?style=for-the-badge&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-
-**Back-end e interfaces**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Testes e ferramentas**
-
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+[![Minhas tecnologias](https://skillicons.dev/icons?i=py,java,js,html,css,mysql,postgres,fastapi,git,githubactions)](https://skillicons.dev)
 
 ## 🚀 Projetos
 
@@ -47,4 +23,4 @@ de quem vai usar.
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhugo2303)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorhugo.program@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nascimento.victorhugo2303@gmail.com)
