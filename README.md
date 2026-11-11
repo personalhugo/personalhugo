@@ -1,10 +1,5 @@
 ## Victor Hugo Nascimento 👨🏻‍💻
 
-
-**personalhugo/personalhugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas t# Olá, eu sou o Victor Hugo 👋
-
 Estudante do último semestre de **Ciência da Computação** na UNIP, de Ribeirão Preto/SP.
 Construo aplicações com **IA generativa e LLMs** em Python: APIs, interfaces de chat e
 integrações com modelos de linguagem, sempre com testes e foco em resolver o problema real
@@ -21,6 +16,10 @@ de quem vai usar.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />)
+          
+![Java](
+![Java](
 
 **IA e LLMs**
 
